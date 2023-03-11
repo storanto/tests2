@@ -1,1 +1,1 @@
-# Selenium tests Assignment
+# Selenium Autotests Assignment
